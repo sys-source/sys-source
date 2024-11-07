@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sys-source
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning python and mathematics
+- 🌱 I’m currently learning C
 
 
 <!---
